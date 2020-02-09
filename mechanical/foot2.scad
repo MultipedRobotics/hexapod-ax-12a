@@ -51,4 +51,4 @@ module foot(l){
     }
 }
 
-foot(20);
+foot(5);
