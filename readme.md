@@ -2,6 +2,19 @@
 
 *in process*
 
+## Others
+
+- Kevin Ochs [ROS1 Hexapod](https://github.com/KevinOchs/hexapod_ros)
+    - [![](https://img.youtube.com/vi/IP-1HebkZnU/0.jpg)](https://www.youtube.com/watch?v=IP-1HebkZnU)
+- Razbotics [ROS1 Hexapod](https://github.com/Razbotics/hexapod_ros)
+    - This is a fork of Kevin Ochs' hexapod
+    - [![](https://img.youtube.com/vi/3IBgmm3x5x4/0.jpg)](https://www.youtube.com/watch?v=3IBgmm3x5x4&feature=youtu.be)
+- Emiliano Borghi [ROS1 Crab](https://github.com/eborghi10/Hexapod-ROS)
+- Biriuk Ivan [ROS1 Crab](http://wiki.ros.org/Robots/HexapodRobot)
+    - [![](https://img.youtube.com/vi/MAnXVhC6eX0/0.jpg)](https://www.youtube.com/watch?v=MAnXVhC6eX0&feature=emb_logo)
+- Davis Weis [ROS1 Hopper](https://github.com/dmweis/Hopper_ROS)
+    - [![](https://img.youtube.com/vi/8a914F4v1qk/0.jpg)](https://www.youtube.com/watch?v=8a914F4v1qk&list=PL2rJqSX7Z5cFj5UM5ozf1wcm_McQg75ch&index=4)
+
 # MIT License
 
 **Copyright (c) 2020 Kevin J. Walchko**
