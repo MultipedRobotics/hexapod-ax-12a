@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name adafruit_trinket)(type Legacy)(uri ${KIPRJMOD}/adafruit_trinket.lib)(options "")(descr ""))
+)

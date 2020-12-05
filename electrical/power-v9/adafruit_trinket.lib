@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Adafruit-Trinket-M0
+#
+DEF Adafruit-Trinket-M0 U 0 40 Y Y 1 F N
+F0 "U" 0 350 60 H V C CNN
+F1 "Adafruit-Trinket-M0" 50 -400 60 H V C CNN
+F2 "" 100 50 60 H I C CNN
+F3 "" 100 50 60 H I C CNN
+DRAW
+S -250 300 200 -300 0 1 0 N
+X 3V 1 300 -200 100 L 50 50 1 1 w
+X Bat 10 -350 200 100 R 50 50 1 1 w
+X 2 2 300 -100 100 L 50 50 1 1 B
+X 1 3 300 0 100 L 50 50 1 1 B
+X 0 4 300 100 100 L 50 50 1 1 B
+X USB 5 300 200 100 L 50 50 1 1 w
+X Rst 6 -350 -200 100 R 50 50 1 1 I
+X 3 7 -350 -100 100 R 50 50 1 1 B
+X 4 8 -350 0 100 R 50 50 1 1 B
+X Gnd 9 -350 100 100 R 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library
